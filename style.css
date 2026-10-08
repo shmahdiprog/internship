@@ -1,6 +1,6 @@
 @font-face {
     font-family: Abar;
-    src: url("src/AbarLowFaNum-Regular.ttf");
+    src: url("AbarLowFaNum-Regular.ttf");
 }
 
 *{
@@ -33,7 +33,7 @@
 #big-baner{
     width: 47%;
     height: 29vw;
-    background-image: url("src/img/banner-01.png");
+    background-image: url("banner-01.png");
     /*margin-top: 25px;*/
     margin-right: 10px;
     margin-left: 8px;
@@ -42,16 +42,16 @@
 #mid-baner{
     width: 47vw;
     height: 30vh;
-    background-image: url("src/img/banner-02.png");
+    background-image: url("banner-02.png");
     background-position: right;
 }
 
 #small-baner1{
-    background-image: url("src/img/banner-03.png");
+    background-image: url("banner-03.png");
 }
 
 #small-baner2{
-    background-image: url("src/img/banner-04.png");
+    background-image: url("banner-04.png");
     
 }
 
