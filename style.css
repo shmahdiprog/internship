@@ -195,3 +195,26 @@
     font-weight: 700;
     font-size: 22px;
 }
+
+
+
+
+
+
+
+
+table{
+    margin: auto;
+    margin-top: 3rem;
+    text-align: center;
+    border-spacing: 20px;
+}
+.tabel-boxes{
+    border-spacing: 0;
+}
+td{
+    text-align: center;
+}
+.title{
+    border-bottom:solid 1px rgb(155, 155, 155);
+}
